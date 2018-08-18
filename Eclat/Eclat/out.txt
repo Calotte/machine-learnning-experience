@@ -1,0 +1,470 @@
+耗时：2879 ms
+for min_sup=200   L:
+****************************************
+1 2 3 
+support count: 315
+1 2 4 
+support count: 279
+1 2 5 
+support count: 287
+1 2 6 
+support count: 265
+1 2 7 
+support count: 268
+1 2 8 
+support count: 263
+1 2 9 
+support count: 263
+1 2 10 
+support count: 237
+1 2 11 
+support count: 211
+1 2 12 
+support count: 217
+1 2 13 
+support count: 208
+1 2 14 
+support count: 204
+1 3 4 
+support count: 276
+1 3 5 
+support count: 291
+1 3 6 
+support count: 286
+1 3 7 
+support count: 276
+1 3 8 
+support count: 266
+1 3 9 
+support count: 258
+1 3 10 
+support count: 236
+1 3 11 
+support count: 232
+1 3 12 
+support count: 237
+1 3 14 
+support count: 207
+1 4 5 
+support count: 256
+1 4 6 
+support count: 251
+1 4 7 
+support count: 259
+1 4 8 
+support count: 234
+1 4 9 
+support count: 222
+1 4 10 
+support count: 221
+1 4 11 
+support count: 205
+1 5 6 
+support count: 251
+1 5 7 
+support count: 252
+1 5 8 
+support count: 256
+1 5 9 
+support count: 232
+1 5 10 
+support count: 234
+1 5 11 
+support count: 201
+1 5 12 
+support count: 214
+1 6 7 
+support count: 257
+1 6 8 
+support count: 255
+1 6 9 
+support count: 237
+1 6 10 
+support count: 217
+1 6 11 
+support count: 215
+1 6 12 
+support count: 211
+1 6 13 
+support count: 201
+1 6 14 
+support count: 203
+1 7 8 
+support count: 231
+1 7 9 
+support count: 232
+1 7 10 
+support count: 214
+1 7 11 
+support count: 218
+1 7 12 
+support count: 211
+1 8 9 
+support count: 230
+1 8 12 
+support count: 203
+1 9 10 
+support count: 200
+2 3 4 
+support count: 291
+2 3 5 
+support count: 297
+2 3 6 
+support count: 271
+2 3 7 
+support count: 279
+2 3 8 
+support count: 285
+2 3 9 
+support count: 269
+2 3 10 
+support count: 257
+2 3 11 
+support count: 239
+2 3 12 
+support count: 216
+2 3 13 
+support count: 205
+2 3 14 
+support count: 212
+2 4 5 
+support count: 254
+2 4 6 
+support count: 245
+2 4 7 
+support count: 262
+2 4 8 
+support count: 248
+2 4 9 
+support count: 233
+2 4 10 
+support count: 226
+2 4 11 
+support count: 212
+2 4 13 
+support count: 200
+2 5 6 
+support count: 228
+2 5 7 
+support count: 249
+2 5 8 
+support count: 259
+2 5 9 
+support count: 232
+2 5 10 
+support count: 233
+2 5 11 
+support count: 202
+2 5 13 
+support count: 200
+2 6 7 
+support count: 239
+2 6 8 
+support count: 241
+2 6 9 
+support count: 229
+2 6 10 
+support count: 207
+2 6 11 
+support count: 202
+2 7 8 
+support count: 237
+2 7 9 
+support count: 227
+2 7 10 
+support count: 217
+2 7 11 
+support count: 202
+2 8 9 
+support count: 241
+2 8 10 
+support count: 233
+2 8 13 
+support count: 204
+2 9 10 
+support count: 215
+3 4 5 
+support count: 254
+3 4 6 
+support count: 242
+3 4 7 
+support count: 247
+3 4 8 
+support count: 235
+3 4 9 
+support count: 204
+3 4 10 
+support count: 218
+3 4 11 
+support count: 209
+3 5 6 
+support count: 244
+3 5 7 
+support count: 253
+3 5 8 
+support count: 251
+3 5 9 
+support count: 228
+3 5 10 
+support count: 239
+3 5 11 
+support count: 215
+3 5 12 
+support count: 205
+3 6 7 
+support count: 249
+3 6 8 
+support count: 241
+3 6 9 
+support count: 213
+3 6 10 
+support count: 202
+3 6 11 
+support count: 214
+3 6 12 
+support count: 209
+3 7 8 
+support count: 229
+3 7 9 
+support count: 214
+3 7 10 
+support count: 210
+3 7 11 
+support count: 214
+3 7 12 
+support count: 205
+3 8 9 
+support count: 220
+3 8 10 
+support count: 210
+3 8 11 
+support count: 208
+4 5 6 
+support count: 220
+4 5 7 
+support count: 220
+4 5 8 
+support count: 226
+4 5 10 
+support count: 204
+4 6 7 
+support count: 228
+4 6 8 
+support count: 219
+4 7 8 
+support count: 209
+4 7 9 
+support count: 202
+5 6 7 
+support count: 219
+5 6 8 
+support count: 227
+5 7 8 
+support count: 218
+5 8 9 
+support count: 207
+5 8 10 
+support count: 202
+6 7 8 
+support count: 216
+6 7 9 
+support count: 212
+6 8 9 
+support count: 201
+****************************************
+耗时：1120 ms
+for min_sup=300   L:
+****************************************
+1 2 3 
+support count: 315
+****************************************
+耗时：635 ms
+for min_sup=400   L:
+****************************************
+1 2 
+support count: 521
+1 3 
+support count: 515
+1 4 
+support count: 466
+1 5 
+support count: 487
+1 6 
+support count: 480
+1 7 
+support count: 453
+1 8 
+support count: 444
+1 9 
+support count: 433
+1 10 
+support count: 402
+2 3 
+support count: 536
+2 4 
+support count: 485
+2 5 
+support count: 483
+2 6 
+support count: 448
+2 7 
+support count: 454
+2 8 
+support count: 464
+2 9 
+support count: 449
+2 10 
+support count: 412
+3 4 
+support count: 457
+3 5 
+support count: 485
+3 6 
+support count: 452
+3 7 
+support count: 447
+3 8 
+support count: 447
+3 9 
+support count: 417
+3 10 
+support count: 400
+4 5 
+support count: 419
+4 6 
+support count: 422
+4 7 
+support count: 423
+4 8 
+support count: 403
+5 6 
+support count: 410
+5 7 
+support count: 409
+5 8 
+support count: 430
+6 7 
+support count: 411
+6 8 
+support count: 412
+****************************************
+耗时：419 ms
+for min_sup=500   L:
+****************************************
+1 2 
+support count: 521
+1 3 
+support count: 515
+2 3 
+support count: 536
+****************************************
+耗时：328 ms
+for min_sup=600   L:
+****************************************
+1 
+support count: 936
+2 
+support count: 952
+3 
+support count: 935
+4 
+support count: 849
+5 
+support count: 873
+6 
+support count: 841
+7 
+support count: 800
+8 
+support count: 812
+9 
+support count: 768
+10 
+support count: 724
+11 
+support count: 691
+12 
+support count: 672
+13 
+support count: 642
+14 
+support count: 620
+****************************************
+耗时：386 ms
+for min_sup=700   L:
+****************************************
+1 
+support count: 936
+2 
+support count: 952
+3 
+support count: 935
+4 
+support count: 849
+5 
+support count: 873
+6 
+support count: 841
+7 
+support count: 800
+8 
+support count: 812
+9 
+support count: 768
+10 
+support count: 724
+****************************************
+耗时：230 ms
+for min_sup=800   L:
+****************************************
+1 
+support count: 936
+2 
+support count: 952
+3 
+support count: 935
+4 
+support count: 849
+5 
+support count: 873
+6 
+support count: 841
+7 
+support count: 800
+8 
+support count: 812
+****************************************
+耗时：179 ms
+for min_sup=900   L:
+****************************************
+1 
+support count: 936
+2 
+support count: 952
+3 
+support count: 935
+****************************************
+耗时：261 ms
+for min_sup=700   L:
+****************************************
+1 
+support count: 936
+2 
+support count: 952
+3 
+support count: 935
+4 
+support count: 849
+5 
+support count: 873
+6 
+support count: 841
+7 
+support count: 800
+8 
+support count: 812
+9 
+support count: 768
+10 
+support count: 724
+****************************************

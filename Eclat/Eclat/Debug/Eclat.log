@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\study\datamining\ex1\eclat\eclat\main.cpp(87): warning C4018: “>=”: 有符号/无符号不匹配
+e:\study\datamining\ex1\eclat\eclat\main.cpp(106): warning C4018: “>=”: 有符号/无符号不匹配
+e:\study\datamining\ex1\eclat\eclat\main.cpp(118): warning C4018: “>=”: 有符号/无符号不匹配
+  Eclat.vcxproj -> E:\study\dataMining\ex1\Eclat\Debug\Eclat.exe
+  Eclat.vcxproj -> E:\study\dataMining\ex1\Eclat\Debug\Eclat.pdb (Full PDB)
